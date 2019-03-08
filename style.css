@@ -1,0 +1,9 @@
+a {
+  text-decoration: none;
+  display: inline;
+  list-style: none;
+}
+
+.navbar {
+  background: #030303;
+}
